@@ -1,0 +1,8 @@
+Search Engine:
+- Google using site:example.com
+- use operators AND, OR
+- use * for missing word
+- filetype: xlsx, e.g.: "tesla.com" filetype: xlsx password
+- "-www" -without e.g.: "tesla.com" -www
+- intext: password
+- inurl: text; intitle: text
